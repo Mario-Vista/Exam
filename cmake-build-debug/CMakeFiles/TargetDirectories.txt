@@ -1,0 +1,3 @@
+/home/rioma/CLionProjects/ASDClion/cmake-build-debug/CMakeFiles/ASDClion.dir
+/home/rioma/CLionProjects/ASDClion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rioma/CLionProjects/ASDClion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
